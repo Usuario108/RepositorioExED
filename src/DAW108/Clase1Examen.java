@@ -12,7 +12,5 @@ package DAW108;
 public class Clase1Examen {
     public static void main(String[]args){
         System.out.println("Clase 1 Examen -Codificacion");
-        int a;
-        System.out.println(a);
     }
 }
